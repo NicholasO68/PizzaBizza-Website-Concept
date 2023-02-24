@@ -1,0 +1,15 @@
+body {
+  background-color: darkred;
+}
+h1 {
+  color: hwb(51 0% 0%);
+}
+main {
+  color: #FFD700;
+}
+p {
+  color: #FFD700;
+}
+h2 {
+  color: #FFD700;
+}
